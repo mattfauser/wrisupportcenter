@@ -1,0 +1,25 @@
+---
+- group: Customer Information
+  items:
+    - title: CRM
+      url: https://uisp.woodrivercontrols.com/crm
+      icon: fas fa-file-invoice-dollar
+    - title: Site Survey
+      url: https://ispdesign.ui.com
+      icon: fas fa-broadcast-tower
+- group: Network Monitoring
+  items:
+    - title: Graphing
+      url: https://monitor.wrinternet.com/graphing
+      icon: fas fa-chart-line
+    - title: NetXMS
+      url: https://monitor.wrinternet.com/nxmc
+      icon: fas fa-server
+    - title: UISP
+      url: https://uisp.woodrivercontrols.com
+      icon: fas fa-network-wired
+- group: Documentation
+  items:
+    - title: Google Drive
+      url: https://drive.google.com
+      icon: fab fa-google-drive

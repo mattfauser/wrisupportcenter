@@ -1,0 +1,11 @@
+baseURL = "http://monitor.wrinternet.com/"
+languageCode = "en-us"
+title = "WRI Support Center"
+theme = "bootstrap-bp-hugo-startpage"
+[params]
+welcomeText = "Wood River Internet Support Staff Links"
+startPageColumns = true
+[[params.searchEngines]]
+  name = "Google"
+  activated = true
+  url = "https://www.google.com/search"
